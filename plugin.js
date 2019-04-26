@@ -1,2 +1,2 @@
-var x = 10;
+var x = 50;
 var y = 30;
